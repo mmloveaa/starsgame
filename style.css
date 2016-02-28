@@ -1,0 +1,61 @@
+body{
+	background-color: #38382e;
+}
+
+#message{
+	color: #8e8e8a;
+	font-size: 30px;
+}
+#warning {
+	color: red;
+}
+
+h1 {
+	color: white;
+}
+
+#buttonsGroup {
+	padding: 5px;
+}
+
+.button{
+	background-color: yellow;
+	font-size: 20px;
+	margin: 5px;
+}
+
+.stars{
+	height: 100px;
+	width: 100px;
+	text-align: center;
+	font-size: 200px
+	font-weight: bold;
+	background-color: #f3c0f7;
+	border-radius: 50%;
+	border: 1px solid white;
+}
+
+.num{
+	height: 100px;
+	width: 100px;
+	text-align: center;
+	font-size: 200px
+	font-weight: bold;
+	background-color: white;
+	border-radius: 20%;
+	border: 1px solid white;
+}
+
+.highlight{
+	background-color: green;
+}
+
+.disabled {
+	
+}
+
+/*img #cats{
+	url:'https://s-media-cache-ak0.pinimg.com/236x/02/a9/4b/02a94bea74be66e60aa7164505a4cf8c.jpg';
+}*/
+
+/*how to put images ussing jquery*/
