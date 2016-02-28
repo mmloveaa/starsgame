@@ -1,6 +1,5 @@
 'use strict';
 
-
 $(document).ready(init);
 
 var chances = 3;
